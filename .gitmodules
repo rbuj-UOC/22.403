@@ -40,3 +40,6 @@
 [submodule "activity_sol_3"]
 	path = activity_sol_3
 	url = git@github.com:rbuj-UOC/22.403-activity_sol_3.git
+[submodule "activity_sol_4"]
+	path = activity_sol_4
+	url = https://github.com/rbuj-UOC/22.403-activity_sol_4.git
